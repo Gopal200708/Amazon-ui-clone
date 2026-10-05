@@ -462,9 +462,12 @@ body {
 }
 
 .footer-locale-bar .logo {
+  
   color: #fff;
   font-size: 20px;
   font-weight: bold;
+  width: auto; /* Navbar wale 100% width ko hatane ke liye */
+  background-image: none; /* Navbar wali image ko yahan aane se rokne ke liye */
 }
 
 .locale-btn {
