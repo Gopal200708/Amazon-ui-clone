@@ -3,10 +3,6 @@
 ## 📝 Description
 This project is a frontend UI clone of the popular e-commerce website, Amazon. It replicates the core design and layout of the Amazon home page. I built this project to practice and showcase my skills in web page structuring, advanced styling, and basic interactivity without relying on any external frameworks.
 
-## 📸 Screenshot
-![Amazon Clone Screenshot](./screenshot.png) 
-*(Note: Upload a screenshot of your website in the repo and replace `./screenshot.png` with your image name)*
-
 ## ✨ Features
 - **Navigation Bar:** Replicated the iconic Amazon navbar with a custom search bar, logo, and hover effects.
 - **Hero Banner:** Eye-catching top banner section (styled using CSS and controlled via JavaScript).
@@ -17,7 +13,6 @@ This project is a frontend UI clone of the popular e-commerce website, Amazon. I
 ## 💻 Tech Stack
 - **HTML5:** For the semantic structure of the web page.
 - **CSS3:** For styling, colors, Flexbox/Grid layouts, and hover animations.
-- **JavaScript (Vanilla):** For DOM manipulation and basic interactivity (like image sliders).
 - **Code Editor:** Visual Studio Code
 
 ## 🚀 How to Run the Project Locally
@@ -28,4 +23,3 @@ Since this is a pure frontend project, you don't need to install any heavy serve
 
 ## 🌐 Live Demo
 [Click here to view the live project](#) 
-*(Note: Replace `#` with your GitHub Pages link once hosted)*
