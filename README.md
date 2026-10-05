@@ -22,4 +22,4 @@ Since this is a pure frontend project, you don't need to install any heavy serve
 3. Simply double-click the `index.html` file to open it in any web browser (Chrome, Edge, Brave).
 
 ## 🌐 Live Demo
-[Click here to view the live project](#) 
+[https://gopal200708.github.io/Amazon-ui-clone/] 
